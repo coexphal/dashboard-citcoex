@@ -1,6 +1,14 @@
 {
  "items": [
   {
+   "id": "https://www.aenverde.es/?p=117494",
+   "titulo": "España, primera productora de frutas y hortalizas en Europa y novena en el mundo",
+   "fecha": "2026-10-27T07:57:45+00:00",
+   "enlace": "https://www.aenverde.es/espana-primera-productora-de-frutas-y-hortalizas-de-la-ue/?utm_source=rss&utm_medium=rss&utm_campaign=espana-primera-productora-de-frutas-y-hortalizas-de-la-ue",
+   "imagen": "imagenes/117494.jpg",
+   "descripcion": "La producción mundial de frutas y hortalizas frescas ascendió a 2.131 millones de toneladas en 2024, según los últimos datos de FAOSTAT, situándose España como primer país productor de la UE y el noveno en la producción mundial. Los 2.131 millones de euros corresponden a frutas y…"
+  },
+  {
    "id": "https://www.aenverde.es/?p=117490",
    "titulo": "El campo andaluz se moviliza en Madrid para exigir medidas urgentes ante la pérdida de rentabilidad",
    "fecha": "2026-10-27T07:33:25+00:00",
@@ -71,14 +79,6 @@
    "enlace": "https://www.aenverde.es/futurefood-convocatoria-cofinanciada-de-investigacion-e-innovacion-en-poscosecha/?utm_source=rss&utm_medium=rss&utm_campaign=futurefood-convocatoria-cofinanciada-de-investigacion-e-innovacion-en-poscosecha",
    "imagen": "imagenes/117451.jpg",
    "descripcion": "El consorcio europeo FutureFoodS -Sustainable Future of Food Systems– ha publicado el preanuncio de su tercera convocatoria conjunta cofinanciada de proyectos transnacionales de investigación e innovación, cuya apertura está prevista para principios de noviembre de 2026. La convocatoria, bajo el título “GETS – Getting Everyone Together for…"
-  },
-  {
-   "id": "https://www.aenverde.es/?p=117441",
-   "titulo": "Fitó reúne a la cadena global del melón para impulsar su futuro",
-   "fecha": "2026-10-26T08:06:02+00:00",
-   "enlace": "https://www.aenverde.es/fito-reune-a-la-cadena-global-del-melon-para-impulsar-su-futuro/?utm_source=rss&utm_medium=rss&utm_campaign=fito-reune-a-la-cadena-global-del-melon-para-impulsar-su-futuro",
-   "imagen": "imagenes/117441.jpg",
-   "descripcion": "Más de un centenar de profesionales de distintos países participaron los días 21 y 22 de octubre en Barcelona en el primer Fitó Melon Summit, una iniciativa impulsada por Fitó para reunir a toda la cadena de valor del melón y analizar los retos y oportunidades…"
   }
  ]
 }
