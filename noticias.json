@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "id": "https://www.aenverde.es/?p=117623",
+   "titulo": "Un estudio descubre cómo la planta hospedadora altera el microbioma de los pulgones y abre nuevas vías para el control biológico",
+   "fecha": "2026-10-28T13:06:39+00:00",
+   "enlace": "https://www.aenverde.es/un-estudio-descubre-como-la-planta-hospedadora-altera-el-microbioma-de-los-pulgones-control-biologico-cebas-csic/?utm_source=rss&utm_medium=rss&utm_campaign=un-estudio-descubre-como-la-planta-hospedadora-altera-el-microbioma-de-los-pulgones-control-biologico-cebas-csic",
+   "imagen": "imagenes/117623.jpg",
+   "descripcion": "El artículo ‘Host plant switching and viral infections reshape the microbiome of the aphid vector Aphis gossypii’, fue publicado en la revista científica Phytobiomes Journal, y en él se analiza cómo la infección por virus y el cambio de planta hospedadora en cultivos de cucurbitáceas pueden modificar…"
+  },
+  {
+   "id": "https://www.aenverde.es/?p=117606",
+   "titulo": "Curso online sobre etiquetado en el sector agroalimentario, frutas y hortalizas",
+   "fecha": "2026-10-28T12:13:54+00:00",
+   "enlace": "https://www.aenverde.es/curso-online-sobre-etiquetado-en-el-sector-agroalimentario-frutas-y-hortalizas-2/?utm_source=rss&utm_medium=rss&utm_campaign=curso-online-sobre-etiquetado-en-el-sector-agroalimentario-frutas-y-hortalizas-2",
+   "imagen": "imagenes/117606.png",
+   "descripcion": "En el sector agroalimentario, una etiqueta no es solo un papel: es información, confianza y cumplimiento legal. Por eso, el Departamento de Formación de COEXPHAL ha convocado el curso online: Etiquetado en el sector agroalimentario, frutas y hortalizas, que está diseñado para ayudar a entender qué menciones…"
+  },
+  {
    "id": "https://www.aenverde.es/?p=117597",
    "titulo": "El IAS-CSIC reta a los alumnos de ESO de toda España con un «kahoot» sobre agricultura",
    "fecha": "2026-10-28T11:59:29+00:00",
@@ -63,22 +79,6 @@
    "enlace": "https://www.aenverde.es/startup-alemana-elige-espana-para-desarrollar-su-tecnologia-de-prediccion-de-plagas/?utm_source=rss&utm_medium=rss&utm_campaign=startup-alemana-elige-espana-para-desarrollar-su-tecnologia-de-prediccion-de-plagas",
    "imagen": "imagenes/117564.jpg",
    "descripcion": "La startup alemana Greenda ha elegido España como mercado estratégico para seguir desarrollando su tecnología de protección de cultivos y gestión de plagas. Fundada en Múnich en 2024, la startup tiene como objetivo poner la inteligencia artificial al servicio de la agricultura sin sustituir el conocimiento experto…"
-  },
-  {
-   "id": "https://www.aenverde.es/?p=117558",
-   "titulo": "Valencia reunirá a referentes internacionales de la biotecnología alimentaria en FEBIO 2026",
-   "fecha": "2026-10-27T15:23:18+00:00",
-   "enlace": "https://www.aenverde.es/valencia-reunira-a-referentes-internacionales-de-la-biotecnologia-alimentaria-en-febio-2026/?utm_source=rss&utm_medium=rss&utm_campaign=valencia-reunira-a-referentes-internacionales-de-la-biotecnologia-alimentaria-en-febio-2026",
-   "imagen": "imagenes/117558.jpg",
-   "descripcion": "A cuatro semanas de su celebración, FEBIO – Future Eats Biotech Valencia ha presentado el programa completo de su primera edición, una cita que convertirá a Valencia en el punto de encuentro de la biotecnología alimentaria europea los próximos 24 y 25 de noviembre. El congreso reunirá…"
-  },
-  {
-   "id": "https://www.aenverde.es/?p=117554",
-   "titulo": "Los ministros de la UE alcanzan un acuerdo político parcial para la próxima PAC",
-   "fecha": "2026-10-27T12:54:05+00:00",
-   "enlace": "https://www.aenverde.es/acuerdo-parcial-de-los-ministros-de-agricultura-de-la-ue-para-la-pac-2028-2034/?utm_source=rss&utm_medium=rss&utm_campaign=acuerdo-parcial-de-los-ministros-de-agricultura-de-la-ue-para-la-pac-2028-2034",
-   "imagen": "imagenes/117554.jpg",
-   "descripcion": "Tras una intensa jornada de negociaciones que concluyó la pasada noche, el Consejo de Ministros de Agricultura de la Unión Europea ha alcanzado un acuerdo político parcial sobre la estructura de la futura Política Agrícola Común (PAC) para el periodo 2028-2034. Este pacto define las reglas del…"
   }
  ]
 }
