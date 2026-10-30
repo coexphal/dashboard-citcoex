@@ -1,6 +1,14 @@
 {
  "items": [
   {
+   "id": "https://www.aenverde.es/?p=117741",
+   "titulo": "El bioinsecticida Mycotal fulmina a la mosca blanca, incluso con frío",
+   "fecha": "2026-10-30T11:48:11+00:00",
+   "enlace": "https://www.aenverde.es/el-bioinsecticida-mycotal-fulmina-a-la-mosca-blanca-incluso-con-frio/?utm_source=rss&utm_medium=rss&utm_campaign=el-bioinsecticida-mycotal-fulmina-a-la-mosca-blanca-incluso-con-frio",
+   "imagen": "imagenes/117741.jpg",
+   "descripcion": "El frío no detiene la actividad de Mycotal. Este bioinsecticida natural de Koppert mantiene su eficacia contra mosca blanca incluso a temperaturas de 8°C. Esta es una de sus principales diferencias frente a otros productos comerciales basados en hongos entomopatógenos. La clave está en el hongo beneficioso…"
+  },
+  {
    "id": "https://www.aenverde.es/?p=117726",
    "titulo": "El sector agroalimentario, entre los que menos adoptan la IA en Europa",
    "fecha": "2026-10-30T11:26:13+00:00",
@@ -71,14 +79,6 @@
    "enlace": "https://www.aenverde.es/el-comercio-agroalimentario-de-la-ue-se-mantiene-estable/?utm_source=rss&utm_medium=rss&utm_campaign=el-comercio-agroalimentario-de-la-ue-se-mantiene-estable",
    "imagen": "imagenes/117680.jpg",
    "descripcion": "El sector agroalimentario de la UE incrementó su balanza comercial positiva en los primeros ocho meses de 2026. Según el informe Seguimiento del sector agroalimentario de la UE, las exportaciones agroalimentarias de la UE alcanzaron los 157.700 millones de euros entre enero y agosto de 2026, una…"
-  },
-  {
-   "id": "https://www.aenverde.es/?p=117668",
-   "titulo": "La circularidad, la inteligencia artificial y el desarrollo inmologístico en la feria del empaquetado",
-   "fecha": "2026-10-29T09:53:31+00:00",
-   "enlace": "https://www.aenverde.es/la-feria-empack-se-celebra-en-madrid-los-dias-11-y-12-de-noviembre/?utm_source=rss&utm_medium=rss&utm_campaign=la-feria-empack-se-celebra-en-madrid-los-dias-11-y-12-de-noviembre",
-   "imagen": "imagenes/117668.jpg",
-   "descripcion": "La circularidad y la regulación en el packaging, la inteligencia artificial y la automatización en la logística y el desarrollo del sector inmologístico marcan la próxima edición de Empack, Logistics & Automation y Logistic & Industrial Build (LIB) Madrid. Los eventos profesionales organizados por Easyfairs, que se…"
   }
  ]
 }
